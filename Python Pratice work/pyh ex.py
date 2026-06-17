@@ -1,0 +1,7 @@
+a=int(intput("Enter A:"))
+b=int(intput("Enter B"))
+c=int(intput("Enter C"))
+print(addition :,a+b)
+print(sub :,a-b)
+print(div :,a/b)
+print(mumt :,a*b)   
